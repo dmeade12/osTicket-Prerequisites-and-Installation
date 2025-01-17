@@ -10,6 +10,9 @@
 <h3>*Operating System Used</h3>
 <p>Windows 11 Pro (24H2)</p>
 
+<h3>*osTicket Installation Files</h3>
+<p>https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6</p>
+
 <h3>Download and Installation Steps</h3>
 <p>1. Downloaded the osTicket file from <i><b>"https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6"</b> </i> to my windows laptop, then extracted the osTicket files to my desktop</p>
 <p align="center"><img src="https://i.imgur.com/rszFcmo.png" height="50%" width="50%" alt="image"/>
