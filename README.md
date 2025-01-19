@@ -68,7 +68,7 @@
 
 <p>19. Congratulations, hopefully it is installed with no errors!
 Browse to your help desk login page: <i> http://localhost/osTicket/scp/login.php </i></p>
-<p align="center"><img src="https://i.imgur.com/TZ6nxco.png" height="50%" width="50%" alt="image"/>
+<p align="center"><img src="https://i.imgur.com/u6LDs8K.png" height="50%" width="50%" alt="image"/>
 
 <p>20. End Users osTicket URL: <i>http://localhost/osTicket/<i/> </p>
 <p align="center"><img src="https://i.imgur.com/dGWkdFJ.png" height="50%" width="50%" alt="image"/>
